@@ -1720,7 +1720,7 @@ input::-moz-focus-inner {
   font-weight: 700;
   text-align: center;
   color: #ffffff;
-  background-color: #3b0d11;
+  background-color: #100d3b;
   height: 4.8rem;
   width: 4.8rem;
   line-height: 4.8rem;
@@ -2523,17 +2523,17 @@ html.no-csstransitions .hero-content {
 .s-about {
   padding-top: 19.6rem;
   padding-bottom: 19.6rem;
-  background-color: #02064b;
-  color: rgba(255, 255, 255, 0.8);
+  background-color: #b80e30;
+  color: rgba(0, 0, 0, 0.8);
 }
 
 .s-about .subhead {
-  color: #f6f6f6;
+  color: #000000;
   margin-bottom: 4rem;
 }
 
-.s-about .lead {
-  color: #ffffff;
+.s-about .content {
+  color: #000000;
   margin-bottom: 4rem;
 }
 
@@ -2542,7 +2542,7 @@ html.no-csstransitions .hero-content {
   width: 100%;
   margin-right: 0;
   background-color: #000000;
-  border-color: #000000;
+  border-color: #cad5f1;
 }
 
 /* ------------------------------------------------------------------- 
